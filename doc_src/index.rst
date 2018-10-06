@@ -34,6 +34,7 @@ Contents
    admin_settings
    custom_categories
    reference/index
+   api
 
 Indices and tables
 ==================

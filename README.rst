@@ -13,6 +13,12 @@ Django Categories grew out of our need to provide a basic hierarchical taxonomy 
 
 As a news site, our stories, photos, and other content get divided into "sections" and we wanted all the apps to use the same set of sections. As our needs grew, the Django Categories grew in the functionality it gave to category handling within web pages.
 
+New in 2.0
+==========
+
+* Added REST API endpoint
+
+
 New in 1.4
 ==========
 
