@@ -1,2 +1,2 @@
 django-mptt
-unicode-slugify
+python-slugify
